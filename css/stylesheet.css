@@ -110,7 +110,7 @@ html {
 body {
   font-family: "Raleway", sans-serif;
   font-size: 1em;
-  color: #666666; }
+  color: #000000; }
 
 ::selection {
   background: #fae3df; }
@@ -383,7 +383,8 @@ hr {
   margin-bottom: .2em; }
 
 .panel-cover__description {
-  margin: 0 30px; }
+  margin: 0 30px;
+  color: #000; }
 
 .panel-cover__divider {
   width: 50%;
@@ -425,7 +426,7 @@ hr {
   color: #FFF;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4); }
   .panel-inverted a {
-    color: #FFF; }
+    color: #23272A; }
 
 .cover-navigation {
   margin-top: 10px; }
